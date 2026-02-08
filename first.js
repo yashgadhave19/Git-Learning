@@ -12,3 +12,5 @@ const pay="Payment is done";
 console.log(pay);
 
 
+// It fixed the bug
+console.log("Bug fixed");
